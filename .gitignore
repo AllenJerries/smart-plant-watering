@@ -1,0 +1,21 @@
+# Web
+web/node_modules/
+web/.next/
+web/out/
+web/coverage/
+web/.vercel/
+web/.env
+web/.env.local
+web/.env.*.local
+web/*.tsbuildinfo
+
+# Firmware
+firmware/.pio/
+firmware/.vscode/
+firmware/.clangd
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
